@@ -1,7 +1,7 @@
 E. E. Edwards
 ===
 
-<img src="/Fieldwork - Lovers Branch 01.JPEG" width="200"/>
+<img src="/assets/images/Fieldwork - Lovers Branch 01.JPEG" width="200"/>
 
 #### Undergraduate Student of Archaeology
 ###### [Department of Anthropology](https://anthro.appstate.edu/), Appalachian State University. Boone, North Carolina, USA
